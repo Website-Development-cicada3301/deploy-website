@@ -1,0 +1,11 @@
+//install jekyll using terminal
+gem install jekyll
+
+//create a new directory
+jekyll new directory_name
+ls
+
+//previewing site locally
+cd directory_name
+jekyll serve
+//to navigate go to http://localhost:4000/
